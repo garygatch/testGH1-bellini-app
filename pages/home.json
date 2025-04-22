@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "ggpet",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "children": []
+}
